@@ -72,4 +72,15 @@ Ethereum network synchronizes and rejects false transactions.
 
 ### Smart contracts
 
-- 
+- Blockchain class
+- Calling operations costs gas
+- Bytecode
+  
+### IPFS
+
+- [IPFS](https://ipfs.io)
+
+### ENS
+
+- [Ethereum name service](https://opensea.io/collection/ens)
+
