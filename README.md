@@ -43,3 +43,33 @@ The entire nextwork cannot be blocked.
 - Custom token: []()
 - NFTs: contain everything
 - [OpenSea](https://opensea.io/)
+
+## Ethereum
+
+Ethereum network synchronizes and rejects false transactions.
+
+[Ethereum](https://etherscan.io/)
+[EthViewer](https://www.livecoinwatch.com/price/Ethereum-ETH)
+
+### Ethereum virtual machine
+
+- Syncs blockchain
+- Processes smart contracts
+- Stores contracts in bytecode
+- Memory only for processes (no persistence) 
+- Allows for storage app data on the blockchain
+  
+
+### DApp stack
+
+- ethers.js (web3.js)
+- Truffle & Waffle
+- IPFS
+
+### Wallets
+
+- [MetaMask](https://metamask.io/)
+
+### Smart contracts
+
+- 
