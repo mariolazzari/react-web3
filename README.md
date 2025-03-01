@@ -102,4 +102,6 @@ Ethereum network synchronizes and rejects false transactions.
 npx hardhat
 ```
 
+### Pinata
 
+[Documentation](https://pinata.cloud/)
