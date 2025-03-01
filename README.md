@@ -84,3 +84,22 @@ Ethereum network synchronizes and rejects false transactions.
 
 - [Ethereum name service](https://opensea.io/collection/ens)
 
+## DApp backend
+
+### Solidity
+
+[Documentation](https://docs.soliditylang.org/en/latest/)
+
+### Open Zeppelin
+
+[Documentation](https://www.openzeppelin.com/)
+
+### Hardhat
+
+[Documentation](https://hardhat.org/)
+
+```sh 
+npx hardhat
+```
+
+
